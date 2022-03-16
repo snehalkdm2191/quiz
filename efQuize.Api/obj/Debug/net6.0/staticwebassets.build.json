@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F/w/8uIKhu1ZUJ0qj7pi43l6EbSZBD58JAwNyp165jI=",
+  "Source": "efQuize.Api",
+  "BasePath": "_content/efQuize.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
